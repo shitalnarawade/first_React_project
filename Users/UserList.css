@@ -1,0 +1,28 @@
+
+.users{
+    margin: 2rem auto;
+    max-width: 40rem;
+    width: 90%;
+    background-color: #90529e;
+
+}
+.users ul{
+    list-style: none;
+    padding: 1rem;
+}
+.users li{
+    border: 1px solid #534f4f;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    background-color: #fff;
+}
+.users label{
+    padding: 2px;
+}
+.nuser{
+   background-color:#90529e;
+   width: 50%;
+   border: 2px;
+   top: 0;
+   left: 0;
+}
